@@ -6,7 +6,7 @@ Movie Database UI Client designed using React and The Movie DB API.
 
 ## Requirements
 
-For development, you will only need Node.js and a node global package such as npm, installed in your environment.
+For development, you will only need Node.js and a node global package such as npm, installed in your environment. Follow this guide on [Youtube](https://www.youtube.com/watch?v=nTeuhbP7wdE).
 
 ## Install
 
